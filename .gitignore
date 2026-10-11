@@ -1,0 +1,17 @@
+client_data/
+server_data/
+*.sqlite3
+*.sqlite3-*
+server-key.json
+*.enc
+*.part
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+client.c
+*.pyd
+*.zip
+.vscode/
+.idea/
